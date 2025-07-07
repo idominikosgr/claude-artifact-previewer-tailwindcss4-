@@ -22,3 +22,9 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+src/artifacts/flow.tsx
+src/artifacts/flow1.tsx
+src/artifacts/flow2.tsx
+src/artifacts/flow3.tsx
+src/artifacts/flow4.tsx
+src/artifacts/flow5.tsx
